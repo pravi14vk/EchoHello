@@ -1,1 +1,1 @@
-"Bug Branch"
+Bug Branch
