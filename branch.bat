@@ -1,1 +1,1 @@
-Bug Branch
+echo "Bug Branch"
