@@ -1,1 +1,1 @@
-"Masterwaa"
+echo "Masterwaa"
